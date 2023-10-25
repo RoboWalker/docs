@@ -1,2 +1,2 @@
 - [首页](/home)
-- [报告](/Report_20230925.md)
+- [报告](/sentry/sentry.md)
